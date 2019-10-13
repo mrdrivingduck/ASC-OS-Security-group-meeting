@@ -1,15 +1,15 @@
-# ASC Research Lab OS-Security Group Meeting
+# ASC Research Lab OS-Security Group Meeting Records
 
-Group meeting records of OS-Security group, ASC-Lab, NUAA.
+<img src="./img/asc-logo.jpg" alt="logo"  />
 
-<img src="./img/asc-logo.jpg" alt="logo" style="zoom: 67%;" />
+The update of this table should follow the rules [here](./README.md).
 
-| #    | Classification     | Content                                                      | Date       | Speaker | Resources   |
-| ---- | ------------------ | ------------------------------------------------------------ | ---------- | ------- | ----------- |
-| 1    | Paper sharing      | How Double-Fetch Situations turn into Double-Fetch Vulnerabilities: A Study of Double Fetches in the Linux Kernel | 2019/05/29 | 张靖棠  | Paper Slide |
-|      | Paper sharing      | Charm: Facilitating Dynamic Analysis of Device Drivers of Mobile Systems | 2019/06/19 | 王益挺  | Paper Slide |
-|      | Paper sharing      | Defending against Malicious Peripherals with Cinch           | 2019/07/17 | 马祖超  | Paper Slide |
-|      | Technology Sharing | Overview of _Google syzkaller_                               | 2019/07/17 | 张靖棠  | Slide       |
-|      | Paper sharing      | Fuzzing File Systems via Two-Dimensional Input Space Exploration | 2019/07/29 | 张靖棠  | Paper Slide |
-|      | Paper sharing      | DIFUZE: Interface Aware Fuzzing for Kernel Drivers           | 2019/09/11 | 张靖棠  | Paper Slide |
+| #    | Classification     | Content                                                      | Date       | Speaker | Resources                                                    |
+| ---- | ------------------ | ------------------------------------------------------------ | ---------- | ------- | ------------------------------------------------------------ |
+| 1    | Paper sharing      | How Double-Fetch Situations turn into Double-Fetch Vulnerabilities: A Study of Double Fetches in the Linux Kernel | 2019/05/29 | 张靖棠  | [Paper](https://raw.githubusercontent.com/mrdrivingduck/ASC-OS-Security-group-meeting/master/resource/20190529-zjt-double-fetch/double-fetch.pdf) [Slide](https://raw.githubusercontent.com/mrdrivingduck/ASC-OS-Security-group-meeting/master/resource/20190529-zjt-double-fetch/sec17-wang.pdf) |
+|      | Paper sharing      | Charm: Facilitating Dynamic Analysis of Device Drivers of Mobile Systems | 2019/06/19 | 王益挺  | [Paper](https://raw.githubusercontent.com/mrdrivingduck/ASC-OS-Security-group-meeting/master/resource/20190619-wyt-charm/sec18-talebi.pdf) [Slide](https://raw.githubusercontent.com/mrdrivingduck/ASC-OS-Security-group-meeting/master/resource/20190619-wyt-charm/security18_slides_talebi.pdf) |
+|      | Paper sharing      | Defending against Malicious Peripherals with Cinch           | 2019/07/17 | 马祖超  | [Paper](https://raw.githubusercontent.com/mrdrivingduck/ASC-OS-Security-group-meeting/master/resource/20190710-mzc-cinch/sec16_paper_angel.pdf) [Slide](https://raw.githubusercontent.com/mrdrivingduck/ASC-OS-Security-group-meeting/master/resource/20190710-mzc-cinch/Cinch_Slides.pdf) |
+|      | Technology Sharing | Overview of _Google syzkaller_                               | 2019/07/17 | 张靖棠  | [Slide](https://raw.githubusercontent.com/mrdrivingduck/ASC-OS-Security-group-meeting/master/resource/20190717-zjt-syzkaller/syzkaller.pdf) |
+|      | Paper sharing      | Fuzzing File Systems via Two-Dimensional Input Space Exploration | 2019/07/29 | 张靖棠  | [Paper](https://raw.githubusercontent.com/mrdrivingduck/ASC-OS-Security-group-meeting/master/resource/20190729-zjt-filesystem/filesystem.pdf) [Slide](https://raw.githubusercontent.com/mrdrivingduck/ASC-OS-Security-group-meeting/master/resource/20190729-zjt-filesystem/xu-janus.pdf) |
+|      | Paper sharing      | DIFUZE: Interface Aware Fuzzing for Kernel Drivers           | 2019/09/11 | 张靖棠  | [Paper](https://raw.githubusercontent.com/mrdrivingduck/ASC-OS-Security-group-meeting/master/resource/20190911-zjt-DIFUZE/DIFUZE.pdf) [Slide](https://raw.githubusercontent.com/mrdrivingduck/ASC-OS-Security-group-meeting/master/resource/20190911-zjt-DIFUZE/Cinch_Slides.pdf) |
 
