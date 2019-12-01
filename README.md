@@ -1,6 +1,6 @@
 # ASC-OS-Security-group-meeting
 
-Group meeting records of ASC-OS-Security group, NUAA.
+👨‍🏫 Group meeting records of ASC-OS-Security group, NUAA.
 
 https://blog.mrdrivingduck.cn/ASC-OS-Security-group-meeting/
 
