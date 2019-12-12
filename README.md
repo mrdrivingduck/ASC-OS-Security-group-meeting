@@ -1,10 +1,8 @@
-# ASC-OS-Security-group-meeting
+# os-security-group-meeting
 
-👨‍🏫 Group meeting records of ASC-OS-Security group, NUAA.
+👨‍🏫 Group meeting records of OS-Security group.
 
-https://blog.mrdrivingduck.cn/ASC-OS-Security-group-meeting/
-
-<img src="./img/asc-logo.jpg" alt="logo" style="zoom:50%;" />
+https://blog.mrdrivingduck.cn/os-security-group-meeting/
 
 ## How to Contribute
 
@@ -14,9 +12,9 @@ https://blog.mrdrivingduck.cn/ASC-OS-Security-group-meeting/
   * e.g. `resource/20191013-tim-mywork/`
 * Put your resources in this directory
 * Modify `index.md` to add your work into the table
-  * Attach the URL of resources by `https://raw.githubusercontent.com/mrdrivingduck/ASC-OS-Security-group-meeting/master/resource/<your_dir>/<your_resource>`
+  * Attach the URL of resources by `https://raw.githubusercontent.com/mrdrivingduck/os-security-group-meeting/master/resource/<your_dir>/<your_resource>`
   * If your slides are in _PowerPoint_ format (`.ppt` / `.pptx`), you'd better convert it into `.pdf` format
-* Create a Pull Request to merge your resources into _master_ branch
+* Create a __Pull Request__ to merge your resources into _master_ branch
 
 ---
 

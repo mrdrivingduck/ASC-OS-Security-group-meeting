@@ -1,7 +1,3 @@
-<img src="./img/asc-logo.jpg" alt="logo"  />
-
-OS-Security group meeting records of _ASC Research Lab_, _NUAA_
-
 The update of this table should follow the rules [here](https://github.com/mrdrivingduck/ASC-OS-Security-group-meeting/blob/master/README.md).
 
 | Date       | Classification     | Content                                                      | Speaker | Resources                                                    |
